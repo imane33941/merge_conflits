@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 LOCAL
 
 # merge_conflits
